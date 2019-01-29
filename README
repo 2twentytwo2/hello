@@ -4,6 +4,7 @@ test2
 
 ？？？__test3
 
+<<<<<<< HEAD
 //----------------zy-----------------
 zybalabalabala
 ttttttttttt
@@ -12,3 +13,10 @@ qss
 dsd
 
 sdsdsdssds
+=======
+//---------------B-------------
+B balabalabalabala
+hhhhh
+awedsdsd
+sdsdsds
+>>>>>>> 2949977de1a2052c14c71ac54401de8ceae5ca0b
